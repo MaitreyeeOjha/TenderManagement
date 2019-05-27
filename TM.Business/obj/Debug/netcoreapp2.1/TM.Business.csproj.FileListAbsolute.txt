@@ -1,0 +1,14 @@
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\bin\Debug\netcoreapp2.1\TM.Business.deps.json
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\bin\Debug\netcoreapp2.1\TM.Business.dll
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\bin\Debug\netcoreapp2.1\TM.Business.pdb
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\obj\Debug\netcoreapp2.1\TM.Business.csproj.CoreCompileInputs.cache
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\obj\Debug\netcoreapp2.1\TM.Business.AssemblyInfoInputs.cache
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\obj\Debug\netcoreapp2.1\TM.Business.AssemblyInfo.cs
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\obj\Debug\netcoreapp2.1\TM.Business.dll
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\obj\Debug\netcoreapp2.1\TM.Business.pdb
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\obj\Debug\netcoreapp2.1\TM.Business.csprojAssemblyReference.cache
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\bin\Debug\netcoreapp2.1\TM.Data.dll
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\bin\Debug\netcoreapp2.1\TM.Data.pdb
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\obj\Debug\netcoreapp2.1\TM.Business.csproj.CopyComplete
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Business\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml

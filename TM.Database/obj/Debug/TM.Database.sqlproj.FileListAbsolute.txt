@@ -1,0 +1,10 @@
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\bin\Debug\TM.Database.dacpac
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\bin\Debug\TM.Database.dll
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\bin\Debug\TM.Database.pdb
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\obj\Debug\TM.Database.sqlprojAssemblyReference.cache
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\obj\Debug\Model.xml
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\obj\Debug\refactor.xml
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\obj\Debug\postdeploy.sql
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\obj\Debug\predeploy.sql
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\obj\Debug\TM.Database.dll
+C:\Code\TenderSearchChallenge\TenderManagement\TM.Database\obj\Debug\TM.Database.pdb
